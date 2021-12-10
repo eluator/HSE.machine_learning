@@ -1,0 +1,5 @@
+hw*/.ipynb_checkpoints
+hw*/datasets
+hw*/__pycache__
+hw*/.idea
+
